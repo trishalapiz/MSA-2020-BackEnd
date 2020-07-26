@@ -2,9 +2,10 @@
 Contains screenshots and explanations for my Azure database project
 
 Link to APIs hosted on Azure - http://trishastudentsims.azurewebsites.net/index.html
-<p>Explanations:<br>
 
-In addition to making a new table (Address) and creating its Context and Controller (with its basic CRUD requests), I have implemented 3 API methods.<br>
+## Explanations:
+
+<p>In addition to making a new table (Address) and creating its Context and Controller (with its basic CRUD requests), I have implemented 3 API methods.<br>
 
 The first is a 3rd GET method, which takes in a student id as input and returns the addresses listed under the student.<br>
 
